@@ -83,7 +83,7 @@ ul a:hover{
 }
 
 .banner{
-	background: url(img/banner2.jpg);
+	background: url(banner2.jpg);
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
